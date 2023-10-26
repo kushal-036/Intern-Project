@@ -1,0 +1,48 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Montserrat;
+    background-color: #0F0F0F;
+    color: whitesmoke;
+    width: 80%;
+}
+
+.heading{
+    font-family: Sacramento;
+    font-size: 5rem;
+    padding: 20px 40px;
+}
+
+.text{
+    margin: 30px auto;
+    width: 600px;
+    font-size: 2rem;
+    border: 2px solid rgb(83, 206, 243);
+    padding: 20px 70px;
+}
+
+.inputform{
+    padding: 30px 20%;
+}
+.padd{
+    width: 600px;
+    margin: 10px auto;
+}
+.btn{
+    width: 80%;
+    background-color: rgb(83, 206, 243);
+}
+.data-btn{
+    width: 30%;
+    margin-bottom: 10%;
+}
+.card{
+    width: 40%;
+    margin: 20px auto;
+}
+.short-btn{
+    width: 90%;
+}
+.cc{
+    margin: 0 20%;
+}
